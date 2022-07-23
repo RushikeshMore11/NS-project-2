@@ -63,3 +63,13 @@
       #btn3{
        color:hwb(151 2% 69%);
       }
+
+ @media screen and (max-width:600px) {
+        
+        .parent{
+            display: flex;
+            flex-direction: column;
+        }
+      }
+
+
